@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="randomColors">
+        <item>#ff006e</item>
+        <item>#A8DADC</item>
+        <item>#457B9D</item>
+        <item>#ffc6ff</item>
+        <item>#6a994e</item>
+        <item>#fee440</item>
+    </string-array>
+</resources>

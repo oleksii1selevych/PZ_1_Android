@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PZ_1</string>
+    <string name="text_description">Click on the button to change the color of the random cell, or put tick into checkbox
+    to make all cells white again by click on the button</string>
+    <string name="button_action">Perform action</string>
+    <string name="checkBox_description">Make all white</string>
+</resources>
